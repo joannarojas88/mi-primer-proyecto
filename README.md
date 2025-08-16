@@ -1,2 +1,2 @@
-# mi-primer-proyecto
-Repositorio de practica para aprender GitHub
+# Mi-primer-proyecto en GitHub
+Este es mi primer epositorio de practica. Estoy aprendiendo a usar GitHub.
